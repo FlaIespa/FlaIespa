@@ -62,10 +62,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaIespa&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Fla's Top Languages">
 
-<p align="center">
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-</p>
-
 Last Edited on: 27/10/2023
 
 

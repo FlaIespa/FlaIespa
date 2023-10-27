@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+  <h4 align="center"><b><i>"Simplicity is the ultimate sophistication"</i></b></h4>
 </p>
 
 <p align="center">

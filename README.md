@@ -20,8 +20,10 @@
 <!--<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />-->
 
 ### I am a Full Stack Developer
-- 💻 Former SDE Intern @ <a href="https://iluma.bio/">Iluma</a>
-- 💻 Former Data Scientist @ <a href="https://www.vetorbrasil.org/">Vetor Brasil</a>
+- 💻 SWE @ <a href="https://www.bendcircular.com/">Bendcircular</a>
+- 💻 SWE Intern @ <a href="https://www.btgpactual.us/">BTG Pactual</a>
+- 💻 SWE Intern @ <a href="https://iluma.bio/">Iluma</a>
+- 💻 Data Scientist @ <a href="https://www.vetorbrasil.org/">Vetor Brasil</a>
 
 - 🔭 I’m currently working on my <a href="https://fla-portfolio.vercel.app/">Portfolio Website</a>
 - 🌱 I’m currently developing a Mental Health Chatbot
@@ -34,26 +36,36 @@
 ### Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+**Visual Studio Code:** Proficient in using this powerful code editor for a variety of programming languages, ensuring efficient and streamlined development processes.
+
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+**HTML5 & CSS3:** Strong command over these web technologies for creating responsive and accessible web pages, adhering to the latest web standards.
+
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+**JavaScript & TypeScript:** Skilled in both JavaScript and TypeScript for building interactive web applications, with a focus on maintainability and scalability.
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+**React:** Experienced in using React to develop dynamic user interfaces, with a focus on performance optimization and user experience.
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+**Node.js:** Proficient in developing server-side applications with Node.js, including building RESTful APIs and handling asynchronous programming.
+
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
+**SQL & MySQL:** Competent in database management, using SQL and MySQL for data manipulation and query optimization.
+
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<!--<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> -->
-<!--<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> -->
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<br>
-<br>
-<br>
-<br>
+**Git & GitHub:** Advanced understanding of version control using Git, with a solid track record of collaboration on GitHub, managing repositories and contributing to open-source projects.
 
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+**Python & Flask:** Proficient in Python programming with extensive experience in using Flask for developing scalable web applications and RESTful services.
+
+<br>
+<br>
+<br>
 
 
 ### Github Stats
